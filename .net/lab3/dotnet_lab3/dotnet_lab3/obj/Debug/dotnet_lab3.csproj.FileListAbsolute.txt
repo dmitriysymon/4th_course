@@ -1,0 +1,11 @@
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.csproj.AssemblyReference.cache
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.Form1.resources
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.Properties.Resources.resources
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.csproj.GenerateResource.cache
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.csproj.CoreCompileInputs.cache
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\bin\Debug\dotnet_lab3.exe.config
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\bin\Debug\dotnet_lab3.exe
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\bin\Debug\dotnet_lab3.pdb
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.exe
+C:\Users\ds228\source\repos\dotnet_lab3\dotnet_lab3\obj\Debug\dotnet_lab3.pdb

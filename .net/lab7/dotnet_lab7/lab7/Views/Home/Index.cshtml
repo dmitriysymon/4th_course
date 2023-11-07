@@ -1,0 +1,48 @@
+﻿@model MainModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Форма введення інформації</title>
+    <style>
+        label {
+            display: inline-block;
+            width: 150px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"],
+        input[type="email"] {
+            width: 250px;
+        }
+        button{
+            margin-left: 230px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post">
+        <div>
+            <label asp-for="LastName">Прізвище:</label>
+            <input asp-for="LastName" />
+        </div>
+        <div>
+            <label asp-for="FirstName">Ім'я:</label>
+            <input asp-for="FirstName" />
+        </div>
+        <div>
+            <label asp-for="MiddleName">По-батькові:</label>
+            <input asp-for="MiddleName" />
+        </div>
+        <div>
+            <label asp-for="Email">email:</label>
+            <input asp-for="Email" />
+        </div>
+        <button type="submit">Відправити</button>
+    </form>
+    <label style="width:300px">@ViewData["result"]</label>
+    <br/><label style="width:300px">@ViewData["emailtest"]</label>
+
+</body>
+</html>

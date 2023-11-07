@@ -1,0 +1,22 @@
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.AssemblyReference.cache
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.SuggestedBindingRedirects.cache
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.GenerateResource.cache
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ds228\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.AssemblyReference.cache
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.GenerateResource.cache
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Новая папка (2)\ООП\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
